@@ -81,6 +81,18 @@ English | Hindi | Assamese | Sanskrit
 6. Core Member of Diplomacia Society in IIT Madras.
 7. Core Member of SRMIST's Data Science Community.
 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankaShekharSharma&show_icons=true&theme=dark)](https://github.com/ShashankaShekharSharma)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankaShekharSharma&layout=compact&theme=dark)](https://github.com/ShashankaShekharSharma)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShashankaShekharSharma&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShashankaShekharSharma&theme=nord&column=7)](https://github.com/ShashankaShekharSharma)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShashankaShekharSharma&theme=dark)
+
+
+
 🏅 *My co-curricular achievements reflect my diverse interests and my dedication to personal growth and development.*
 
 Let's embark on this odyssey together! Connect with me and let's create, innovate, and explore the limitless possibilities. 🌟
