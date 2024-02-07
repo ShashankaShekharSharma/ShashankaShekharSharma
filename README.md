@@ -6,7 +6,7 @@ Hello, fellow explorer of the digital realm! 👋 I'm Shashanka Shekhar Sharma, 
 
 - **DPS Guwahati, Guwahati** — Class 10 and Class 12, March 2023
 - **IIT Madras, Chennai** — BS Data Science and Applications, July 2023-26
-- **SRMIST, Kattankulathur** — B.Tech Computer Science and Engineering, August 23-27
+- **SRMIST, Kattankulathur** — B.Tech Computer Science and Engineering, August 23-27  
 
 📝 *I'm currently pursuing my undergraduate degree in Data Science and Applications at IIT Madras, and I'm excited to learn and grow in this ever-evolving field.*
 
