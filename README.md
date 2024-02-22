@@ -31,9 +31,6 @@ Hello, fellow explorer of the digital realm! 👋 I'm Shashanka Shekhar Sharma, 
 1. **Mock Test Simulator**
    - Harnessing the magic of ML, AI, and Python to create a revolutionary mock test simulator.
 
-2. **Newsletter Project for Diplomacia Society**
-   - Leading a groundbreaking project in IIT Madras, redefining communication through newsletters.
-
 🌟 *Stay tuned for more updates on these exciting projects!*
 
 ## Certifications 🏆
