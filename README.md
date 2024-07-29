@@ -51,13 +51,13 @@ Writing | Programming | Team Management | Project Management | Photography | Ske
 
 ## Hobbies 🎸
 
-Reading | Music | Guitar | Research | Coding
+Reading | Music | Guitar | Research | Coding 
 
 🎶 *In my free time, I enjoy reading, playing the guitar, and staying up-to-date with the latest trends in technology and data science.*
 
 ## Languages 🗣️
 
-English | Hindi | Assamese | Sanskrit
+English | Hindi | Assamese | Sanskrit | German
 
 🗣️ *I'm fluent in multiple languages, which has helped me connect with people from various cultural backgrounds.*
 
