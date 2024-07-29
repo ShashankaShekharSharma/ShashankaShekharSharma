@@ -1,4 +1,4 @@
-# Shashanka Shekhar Sharma - Aspiring Writer, Budding Data Scientist, Curious Programmer 🚀
+# Shashanka Shekhar Sharma - Budding Data Scientist, Curious Programmer 🚀
 
 Hello, fellow explorer of the digital realm! 👋 I'm Shashanka Shekhar Sharma, a passionate individual navigating the intersection of words, data, and code. Join me on this exciting journey through the realms of writing, programming, and the fascinating world of data.
 
