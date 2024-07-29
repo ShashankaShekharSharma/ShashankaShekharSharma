@@ -14,9 +14,6 @@ Hello, fellow explorer of the digital realm! 👋 I'm Shashanka Shekhar Sharma, 
 
 - **Epitaph Journal** — *Editor in Chief*
   - My inaugural project as Editor in Chief, paving the way for creative expression.
-  
-- **Wisteria of Words** — *Editor in Chief*
-  - Steering the ship as Editor in Chief for my second project, a celebration of the written art.
 
 - **The Tremendous Trio** — *Co-author*
   - Co-authoring a book that soared to success, proving that collaboration breeds triumph.
@@ -26,10 +23,6 @@ Hello, fellow explorer of the digital realm! 👋 I'm Shashanka Shekhar Sharma, 
 
 💻 *I'm always eager to work on new projects and collaborate with like-minded individuals. Feel free to reach out if you'd like to discuss a potential opportunity.*
 
-## Upcoming Projects 🔮
-
-1. **Mock Test Simulator**
-   - Harnessing the magic of ML, AI, and Python to create a revolutionary mock test simulator.
 
 🌟 *Stay tuned for more updates on these exciting projects!*
 
