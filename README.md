@@ -1,95 +1,59 @@
-# Shashanka Shekhar Sharma - Budding Data Scientist, Curious Programmer 🚀
+# Shashanka Shekhar Sharma – Budding Data Scientist, AI Explorer & Curious Programmer 🚀  
 
-Hello, fellow explorer of the digital realm! 👋 I'm Shashanka Shekhar Sharma, a passionate individual navigating the intersection of words, data, and code. Join me on this exciting journey through the realms of writing, programming, and the fascinating world of data.
+Hello, digital pioneer! 👋 I'm **Shashanka Shekhar Sharma**, an aspiring researcher at the exciting crossroads of **Artificial Intelligence, Machine Learning, and Quantum Computing**. With experiences at **Samsung Research, IIT Guwahati, IIT Kharagpur, and ThinkAI**, I thrive on building impactful solutions, from **AI-powered browsers** to **quantum-enhanced transformer models**.  
 
-## Education 📚
+## Education 📚  
+- **SRM Institute of Science and Technology (2023–27)** — B.Sc. Computer Science (CGPA: 9.2)  
+- **IIT Madras (2023–27)** — B.Sc. Data Science and Applications (CGPA: 7.5)  
+- **Delhi Public School, Guwahati** — Class 10 (95.2%) | Class 12 (91.4%)  
 
-- **DPS Guwahati, Guwahati** — Class 10 and Class 12, March 2023
-- **IIT Madras, Chennai** — BS Data Science and Applications, July 2023-26
-- **SRMIST, Kattankulathur** — B.Tech Computer Science and Engineering, August 23-27  
+💡 *Dual-degree learner bridging computer science and data science to explore innovation at scale.*  
 
-📝 *I'm currently pursuing my undergraduate degree in Data Science and Applications at IIT Madras, and I'm excited to learn and grow in this ever-evolving field.*
+## Experience 💼  
+- **Samsung Research** — Intern (2025)  
+  *Researched transformer compression & quantum annealing for efficient inference.*  
+- **IIT Guwahati** — Summer Intern (2024, 2025)  
+  *Worked on relation extraction, AI model optimization & ML research.*  
+- **IIT Kharagpur** — Summer Intern (2025)  
+  *Explored graph theory applications in large language models.*  
+- **ThinkAI** — Research Intern (2024)  
+  *Delivered AI-driven solutions to client companies.*  
 
-## Projects 🚀
+## Projects 🚀  
+- **Browsit** — Python-based web browser with multi-search & chatbot integration.  
+- **KrishiMitra** — AI tool to detect crop diseases & suggest remedies for farmers.  
+- **QuantumLLM** — Novel transformer architecture enhanced with quantum principles.  
 
-- **Epitaph Journal** — *Editor in Chief*
-  - My inaugural project as Editor in Chief, paving the way for creative expression.
+## Achievements & Awards 🏅  
+- **Winner – JPMorgan Code for Good 2025** 🏆  
+- **Outstanding Student of the Year (SRM)**  
+- **3rd Best Research Poster – National Quantum Quest (IIT Kanpur)**  
 
-- **The Tremendous Trio** — *Co-author*
-  - Co-authoring a book that soared to success, proving that collaboration breeds triumph.
+## Certifications 🎓  
+- Google Data Science | Google Business Intelligence | IBM Data Science Foundations  
+- IBM Data Analysis & Visualization | Google Generative AI Learning Path  
 
-- **Pages from my Attic** — *Author*
-  - My first poetry book consisting of 100 poems
+## Leadership & Societies 🌐  
+- Vice President — **Quantum Computing Club, SRMIST**  
+- Supervisor — **SRM Data Science Community**  
+- Active Member — **Association for Computing Machinery (ACM)**  
 
-💻 *I'm always eager to work on new projects and collaborate with like-minded individuals. Feel free to reach out if you'd like to discuss a potential opportunity.*
+## Co-Curriculars 🎶🎨📚  
+- **Music & Tabla** — Visharad & Sangeet Bhushan in Tabla and Vocal Music  
+- **Fine Arts & Recitation** — Senior Diplomas in Fine Arts & Recitation  
+- **Author** — *Pages from My Attic* (Poetry), *The Tremendous Trio* (Novel)  
 
+## Skills 💡  
+AI & ML | Quantum Computing | Python | C++ | Java | Data Analysis | Writing | Leadership | Creativity  
 
-🌟 *Stay tuned for more updates on these exciting projects!*
+## Languages 🌍  
+English | Hindi | Assamese | Sanskrit | German  
 
-## Certifications 🏆
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankaShekharSharma&show_icons=true&theme=dark)](https://github.com/ShashankaShekharSharma)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankaShekharSharma&layout=compact&theme=dark)](https://github.com/ShashankaShekharSharma)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShashankaShekharSharma&theme=nord&column=7)](https://github.com/ShashankaShekharSharma)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShashankaShekharSharma&theme=dark)  
+![Profile Views](https://komarev.com/ghpvc/?username=ShashankaShekharSharma)  
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/shashanka-shekhar-sharma)  
 
-- **Google Data Analytics Specialisation Professional Certificate**
-- **Google Advanced Data Analytics Professional Certificate** (Currently Pursuing)
-- **IBM Data Analyst Professional Certificate** (Currently Pursuing)
-- **IBM Data Science Professional Certificate** (Currently Pursuing)
-- **Google Project Management Professional Certificate** (Currently Pursuing)
-
-📚 *I'm committed to lifelong learning and continuously expanding my skillset through various online courses and certifications.*
-
-## Skills 💡
-
-Writing | Programming | Team Management | Project Management | Photography | Sketching
-
-🖥️ *I'm proficient in various programming languages, including Python, Java, and C++. I also have experience in leading teams and managing projects.*
-
-## Awards 🏅
-
-- Various zonal and national level awards in Olympiads of Science, Math, and Technology.
-- School-level accolades in events like Debate, MUN, Extempore Speech, etc.
-
-🏆 *I'm proud of my achievements, and I strive to continue learning and growing in all aspects of my life.*
-
-## Hobbies 🎸
-
-Reading | Music | Guitar | Research | Coding 
-
-🎶 *In my free time, I enjoy reading, playing the guitar, and staying up-to-date with the latest trends in technology and data science.*
-
-## Languages 🗣️
-
-English | Hindi | Assamese | Sanskrit | German
-
-🗣️ *I'm fluent in multiple languages, which has helped me connect with people from various cultural backgrounds.*
-
-## Co-Curricular Achievements 🎓
-
-1. Completed Visharad in Tabla.
-2. Completed Sangeet Bhushan in Tabla.
-3. Completed Visharad in Music.
-4. Completed Senior Diploma in Fine Arts.
-5. Completed Senior Diploma in Recitation.
-6. Core Member of Diplomacia Society in IIT Madras.
-7. Core Member of SRMIST's Data Science Community.
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankaShekharSharma&show_icons=true&theme=dark)](https://github.com/ShashankaShekharSharma)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankaShekharSharma&layout=compact&theme=dark)](https://github.com/ShashankaShekharSharma)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShashankaShekharSharma&theme=nord&column=7)](https://github.com/ShashankaShekharSharma)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShashankaShekharSharma&theme=dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShashankaShekharSharma)
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/ShashankaShekharSharma)
-
-
-
-
-
-
-🏅 *My co-curricular achievements reflect my diverse interests and my dedication to personal growth and development.*
-
-Let's embark on this odyssey together! Connect with me and let's create, innovate, and explore the limitless possibilities. 🌟
-
-*Keep coding, keep writing, and never stop exploring!* ✨
+✨ *Passionate about exploring new dimensions of technology, blending creativity with research, and striving to make meaningful contributions through innovation.*  
